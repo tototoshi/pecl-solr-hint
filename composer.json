@@ -1,0 +1,7 @@
+{
+    "name": "tototoshi/pecl-solr-hint",
+    "description": "A code hint file for the solr extension.",
+    "keywords": ["solr", "hint"],
+    "homepage": "http://github.com/tototoshi/pecl-solr-hint",
+    "license": "PHP"
+}
